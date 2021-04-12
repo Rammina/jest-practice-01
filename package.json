@@ -1,0 +1,27 @@
+{
+  "name": "jest-practice-01",
+  "version": "1.0.0",
+  "description": "The Odin Project jest practice assignments.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rammina/jest-practice-01.git"
+  },
+  "keywords": [
+    "jest",
+    "JavaScript",
+    "testing"
+  ],
+  "author": "Rammina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rammina/jest-practice-01/issues"
+  },
+  "homepage": "https://github.com/Rammina/jest-practice-01#readme"
+}
